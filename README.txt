@@ -7,6 +7,7 @@ The reopository contains:
 -OCR algorithms:
 	-Template matching
 	-AI(YoloV8)
+-Fully functional ANPR app with HMI.
 
 All code has been commented in spanish. 
 
